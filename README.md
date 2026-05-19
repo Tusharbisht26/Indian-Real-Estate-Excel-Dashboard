@@ -1,3 +1,10 @@
+# Dashboard Preview
+
+![Dashboard](Dashboard.png)
+
+![Executive Summary](Executive Summary.png)
+
+![Additional Analysis](Additional Analysis.png)
 # Indian Real Estate Analytics Dashboard Using Excel
 
 ## Project Overview
